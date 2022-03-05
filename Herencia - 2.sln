@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia - 2", "Herencia - 2\Herencia - 2.csproj", "{9914DF13-352B-44FE-A4FA-6047E1EA85EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logica", "logica\logica.csproj", "{8DBBBC61-CCA3-42DA-94DD-9902B70F2F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9914DF13-352B-44FE-A4FA-6047E1EA85EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914DF13-352B-44FE-A4FA-6047E1EA85EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9914DF13-352B-44FE-A4FA-6047E1EA85EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914DF13-352B-44FE-A4FA-6047E1EA85EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBBBC61-CCA3-42DA-94DD-9902B70F2F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBBBC61-CCA3-42DA-94DD-9902B70F2F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBBBC61-CCA3-42DA-94DD-9902B70F2F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBBBC61-CCA3-42DA-94DD-9902B70F2F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07320123-240A-454D-900E-08BD75C0369A}
+	EndGlobalSection
+EndGlobal
